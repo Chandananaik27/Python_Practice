@@ -1,4 +1,4 @@
-'''nums=[1,4,9,16,25,36,49,64,81,100]
+nums=[1,4,9,16,25,36,49,64,81,100]
 for num in nums:
     print(num)
 
@@ -19,9 +19,9 @@ for num in nums:
     if num==49:
         print("number found at index",index)
         break
-    index+=1'''
+    index+=1
 
-'''str="chandana"
+str="chandana"
 for char in str:
     if(char=='d'):
         print("d found")
@@ -42,7 +42,7 @@ for i in range(5,0,-1):
 
 n=int(input("enter number:"))
 for i in range  (1,5):
-    print(n*i)'''
+    print(n*i)
 
 sum=0
 n=int(input("enter number:"))
