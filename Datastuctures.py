@@ -1,6 +1,6 @@
 #Lists
 
-'''marks=[45,4,5,6,37]
+marks=[45,4,5,6,37]
 print(marks)
 print(type(marks))
 print(marks[0])
@@ -52,7 +52,7 @@ print(grade.count("a"))
 #garde=(3,5,6,8,1,9)#
 print(grade[1:3])
 print(grade[-4:])
-print(grade[:-1])'''
+print(grade[:-1])
 
 names=("chan","mike","chai","leo","lakshman")
 name=list(names)
