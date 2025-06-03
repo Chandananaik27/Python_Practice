@@ -1,0 +1,3 @@
+hi all
+we are learning python
+i like python
