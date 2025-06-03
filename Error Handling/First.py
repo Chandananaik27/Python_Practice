@@ -1,4 +1,4 @@
-'''def divide_numbers():
+def divide_numbers():
     try:
         num1=int(input("enter numerator"))
         num2=int(input("Enter denominator"))
@@ -11,7 +11,7 @@
         print("resul:",result)
     finally:
         print("operation success")
-divide_numbers()'''
+divide_numbers()
 
 def read_file():
     filename = input("enter the file name")
