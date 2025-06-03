@@ -1,4 +1,4 @@
-f=open("text","r")
+'''f=open("text","r")
 data=f.read() #read entire file
 print(data)
 print(type(data))
@@ -57,11 +57,11 @@ with open("practice.txt","r") as f:
 new_data=data.replace("programming","python")
 print(new_data)
 with open("practice.txt","w") as f:
-    f.write(new_data)
+    f.write(new_data)'''
 
 def check_for_line():
         word="learning"
-        date=True
+        data=True
         line_no=1
         with open("practice.txt", "r") as f:
             while data:
@@ -71,4 +71,5 @@ def check_for_line():
                     return
                 line_no+=1
         return -1
+check_for_line()
 
